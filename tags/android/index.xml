@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on My Portfolio</title>
+    <link>https://andikatuluspangestu.github.io/tags/android/</link>
+    <description>Recent content in Android on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Mon, 20 Mar 2023 10:03:53 +0700</lastBuildDate>
+    
+	<atom:link href="https://andikatuluspangestu.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara Flashing Xiaomi Di Linux</title>
+      <link>https://andikatuluspangestu.github.io/posts/cara-flashing-xiaomi-di-linux/</link>
+      <pubDate>Mon, 20 Mar 2023 10:03:53 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/cara-flashing-xiaomi-di-linux/</guid>
+      <description>Flashing atau install ulang OS pada android sangatlah penting, karena bisa mengatasi berbagai masalah yang terjadi pada smartphone kita, namun jarang sekali orang yang mengetahui caranya, apalagi kebanykana flashing smartphone ( terkhusus xiaomi ) itu menggunakan PC dengan sistem operasi windows. Pada tutorial kali ini saya akan menggunakan sistem operasi linux atau distro linux turunan ubuntu untuk memflashing.
+Pada xiaomi sendiri kita biasanya menggunakan Aplikasi Mi Flash, namun karena Mi Flash hanya berjalan di OS Windows maka kita tidak bisa menggunakannya di linux, oleh karena itu pada tutorial ini kita akan menggunakan Terminal untuk melakukan step by step dalam proses flashing.</description>
+    </item>
+    
+    <item>
+      <title>Cara Sederhana Menggunakan Custom DNS</title>
+      <link>https://andikatuluspangestu.github.io/posts/menggunakan-dns-dihp/</link>
+      <pubDate>Tue, 15 Feb 2022 11:30:15 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/menggunakan-dns-dihp/</guid>
+      <description>A. Mengenal DNS Singkatnya, DNS adalah salah satu cara agar kita bisa mengakses suatu website, tanpa perlu mengetikan alamat IP dari website tersebut di Address Bar Browser kita.
+Fungsi DNS Lainnya :
+ Menggantikan alamat IP menjadi nama domain yang mudah di ingat Mempercepat koneksi internet Memfilter konten di internet  B. Mengapa kita perlu custom DNS atau DNS pihak ketiga? Penggunaan DNS sangat berpengaruh terhadap aktivitas internet kita, seperti halnya kecepatan akses ke suatu halaman web.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Lengkap dan Bahas Tuntas Tentang Whatsapp Mods</title>
+      <link>https://andikatuluspangestu.github.io/posts/cara-menggunakan-wa-mod/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/cara-menggunakan-wa-mod/</guid>
+      <description>A. Persiapan  Mengunduh Whatsapp Mod : Download  B. Manfaat menggunakan Whatsapp Mod  Bisa menikmati Fitur Whatsapp terkini Kebanyakan Whatsapp Mod menggunakan Versi BETA terkini, sehingga banyak Fitur baru yang tidak didapatkan di Whatsapp Stabil yang ada di Playstore. Fitur Privasi lebih lengkap Fitur Privasi merupakan fitur utama yang di bawa oleh pengembang Whatsapp Mod dan menjadi daya tarik tersendiri. Resolusi Media Dengan menggunakan Whatsapp Mod, kita bisa mengirim dan menerima, bahkan mengunggah story whatsapp dengan kualitas yang lebih baik daripada Whatsapp original.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php on My Portfolio</title>
+    <link>https://andikatuluspangestu.github.io/tags/php/</link>
+    <description>Recent content in php on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sun, 19 Mar 2023 10:48:04 +0700</lastBuildDate>
+    
+	<atom:link href="https://andikatuluspangestu.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara Install XAMPP Windows dan Linux</title>
+      <link>https://andikatuluspangestu.github.io/posts/install-xampp-windows-linux/</link>
+      <pubDate>Sun, 19 Mar 2023 10:48:04 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/install-xampp-windows-linux/</guid>
+      <description>A. Instalasi XAMPP di Linux  Download XAMPP : XAMPP Linux Buka Terminal  &amp;gt; sudo chmod 777 xampp.run &amp;gt; sudo ./xampp.run &amp;gt; Membuat Shortcut XAMPP &amp;gt; cd /usr/share/applications &amp;gt; cd touch xampp.desktop &amp;gt; sudo nano xampp.desktop  Copy dan Paste Script di bawah ini.  [Desktop Entry] Encoding=UTF-8 Name=XAMPP Comment=XAMPP Linux Control Panel Exec=sudo /opt/lampp/manager-linux-x64.run Icon=/opt/lampp/htdocs/favicon.ico Categories=Application Type=Application Terminal=true &amp;gt; Perizinan Folder XAMPP &amp;gt; sudo chmod 777 /opt/lampp/htdocs B. Instalasi XAMPP di Windows   Download XAMPP : XAMPP Windows</description>
+    </item>
+    
+  </channel>
+</rss>

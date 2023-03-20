@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LearnDOM on My Portfolio</title>
+    <link>https://andikatuluspangestu.github.io/tags/learndom/</link>
+    <description>Recent content in LearnDOM on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sun, 06 Feb 2022 09:53:31 +0700</lastBuildDate>
+    
+	<atom:link href="https://andikatuluspangestu.github.io/tags/learndom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Memilih Elemen HTML pada Javascript DOM</title>
+      <link>https://andikatuluspangestu.github.io/posts/memilih-elemen-html-dom/</link>
+      <pubDate>Sun, 06 Feb 2022 09:53:31 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/memilih-elemen-html-dom/</guid>
+      <description>A. Mengenal Javascript DOM Javascript DOM adalah metode dalam Bahasa Pemrograman Javascript yang digunakan untuk memanipulasi element HTML dan CSS pada suatu website. Dengan Javascript DOM kita bisa melakukan atau membuat berbagai interaksi dalam halaman web melalui berbagai Fungsi atau Events yang dimiliki Javascript DOM, seperti membuat Animasi, Membuat Musik Player dan sebagainya.
+B. Persiapan Dalam belajar dan praktik mengenai Javascript DOM ada beberapa hal yang perlu di persiapkan, baik dari sarana maupun pengetahuan yang sebelumnya harus di miliki.</description>
+    </item>
+    
+  </channel>
+</rss>

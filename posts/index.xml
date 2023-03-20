@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Portfolio</title>
+    <link>https://andikatuluspangestu.github.io/posts/</link>
+    <description>Recent content in Posts on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Mon, 20 Mar 2023 10:03:53 +0700</lastBuildDate>
+    
+	<atom:link href="https://andikatuluspangestu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara Flashing Xiaomi Di Linux</title>
+      <link>https://andikatuluspangestu.github.io/posts/cara-flashing-xiaomi-di-linux/</link>
+      <pubDate>Mon, 20 Mar 2023 10:03:53 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/cara-flashing-xiaomi-di-linux/</guid>
+      <description>Flashing atau install ulang OS pada android sangatlah penting, karena bisa mengatasi berbagai masalah yang terjadi pada smartphone kita, namun jarang sekali orang yang mengetahui caranya, apalagi kebanykana flashing smartphone ( terkhusus xiaomi ) itu menggunakan PC dengan sistem operasi windows. Pada tutorial kali ini saya akan menggunakan sistem operasi linux atau distro linux turunan ubuntu untuk memflashing.
+Pada xiaomi sendiri kita biasanya menggunakan Aplikasi Mi Flash, namun karena Mi Flash hanya berjalan di OS Windows maka kita tidak bisa menggunakannya di linux, oleh karena itu pada tutorial ini kita akan menggunakan Terminal untuk melakukan step by step dalam proses flashing.</description>
+    </item>
+    
+    <item>
+      <title>Cara Install XAMPP Windows dan Linux</title>
+      <link>https://andikatuluspangestu.github.io/posts/install-xampp-windows-linux/</link>
+      <pubDate>Sun, 19 Mar 2023 10:48:04 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/install-xampp-windows-linux/</guid>
+      <description>A. Instalasi XAMPP di Linux  Download XAMPP : XAMPP Linux Buka Terminal  &amp;gt; sudo chmod 777 xampp.run &amp;gt; sudo ./xampp.run &amp;gt; Membuat Shortcut XAMPP &amp;gt; cd /usr/share/applications &amp;gt; cd touch xampp.desktop &amp;gt; sudo nano xampp.desktop  Copy dan Paste Script di bawah ini.  [Desktop Entry] Encoding=UTF-8 Name=XAMPP Comment=XAMPP Linux Control Panel Exec=sudo /opt/lampp/manager-linux-x64.run Icon=/opt/lampp/htdocs/favicon.ico Categories=Application Type=Application Terminal=true &amp;gt; Perizinan Folder XAMPP &amp;gt; sudo chmod 777 /opt/lampp/htdocs B. Instalasi XAMPP di Windows   Download XAMPP : XAMPP Windows</description>
+    </item>
+    
+    <item>
+      <title>Cara Sederhana Menggunakan Custom DNS</title>
+      <link>https://andikatuluspangestu.github.io/posts/menggunakan-dns-dihp/</link>
+      <pubDate>Tue, 15 Feb 2022 11:30:15 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/menggunakan-dns-dihp/</guid>
+      <description>A. Mengenal DNS Singkatnya, DNS adalah salah satu cara agar kita bisa mengakses suatu website, tanpa perlu mengetikan alamat IP dari website tersebut di Address Bar Browser kita.
+Fungsi DNS Lainnya :
+ Menggantikan alamat IP menjadi nama domain yang mudah di ingat Mempercepat koneksi internet Memfilter konten di internet  B. Mengapa kita perlu custom DNS atau DNS pihak ketiga? Penggunaan DNS sangat berpengaruh terhadap aktivitas internet kita, seperti halnya kecepatan akses ke suatu halaman web.</description>
+    </item>
+    
+    <item>
+      <title>Menggunakan Live Preview Visual Studio Code</title>
+      <link>https://andikatuluspangestu.github.io/posts/menggunakan-live-preview-vscode/</link>
+      <pubDate>Sun, 13 Feb 2022 04:44:41 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/menggunakan-live-preview-vscode/</guid>
+      <description>A. Mengenal Visual Studio Code Visual Studio Code merupakan sebuah software yang digunakan sebagai kode editor disaat mengembangkan sebuah program komputer. Visual Studio Code berjalan di sistem operasi Windows, Linux dan Mac. Visual Studio Code memiliki extension sebagai alat penunjang tambahan untuk mempermudah pengembangan, di dalam artikel ini kita akan membahas salah satu extension yang ada di Visual Studio Code yaitu Live Preview
+B. Tentang Extension Live Preview Ektensi ini merupakan salah satu ektensi yang berfungsi sebagai preview atau pratinjau terhadap halaman web statis yang kamu buat, dengan menggunakan ini kamu sudah tidak begitu lagi memerlukan browser.</description>
+    </item>
+    
+    <item>
+      <title>Memilih Elemen HTML pada Javascript DOM</title>
+      <link>https://andikatuluspangestu.github.io/posts/memilih-elemen-html-dom/</link>
+      <pubDate>Sun, 06 Feb 2022 09:53:31 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/memilih-elemen-html-dom/</guid>
+      <description>A. Mengenal Javascript DOM Javascript DOM adalah metode dalam Bahasa Pemrograman Javascript yang digunakan untuk memanipulasi element HTML dan CSS pada suatu website. Dengan Javascript DOM kita bisa melakukan atau membuat berbagai interaksi dalam halaman web melalui berbagai Fungsi atau Events yang dimiliki Javascript DOM, seperti membuat Animasi, Membuat Musik Player dan sebagainya.
+B. Persiapan Dalam belajar dan praktik mengenai Javascript DOM ada beberapa hal yang perlu di persiapkan, baik dari sarana maupun pengetahuan yang sebelumnya harus di miliki.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Lengkap dan Bahas Tuntas Tentang Whatsapp Mods</title>
+      <link>https://andikatuluspangestu.github.io/posts/cara-menggunakan-wa-mod/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/cara-menggunakan-wa-mod/</guid>
+      <description>A. Persiapan  Mengunduh Whatsapp Mod : Download  B. Manfaat menggunakan Whatsapp Mod  Bisa menikmati Fitur Whatsapp terkini Kebanyakan Whatsapp Mod menggunakan Versi BETA terkini, sehingga banyak Fitur baru yang tidak didapatkan di Whatsapp Stabil yang ada di Playstore. Fitur Privasi lebih lengkap Fitur Privasi merupakan fitur utama yang di bawa oleh pengembang Whatsapp Mod dan menjadi daya tarik tersendiri. Resolusi Media Dengan menggunakan Whatsapp Mod, kita bisa mengirim dan menerima, bahkan mengunggah story whatsapp dengan kualitas yang lebih baik daripada Whatsapp original.</description>
+    </item>
+    
+  </channel>
+</rss>

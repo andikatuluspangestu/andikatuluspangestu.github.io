@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Portfolio</title>
+    <link>https://andikatuluspangestu.github.io/tags/</link>
+    <description>Recent content in Tags on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Mon, 20 Mar 2023 10:03:53 +0700</lastBuildDate>
+    
+	<atom:link href="https://andikatuluspangestu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android</title>
+      <link>https://andikatuluspangestu.github.io/tags/android/</link>
+      <pubDate>Mon, 20 Mar 2023 10:03:53 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://andikatuluspangestu.github.io/tags/php/</link>
+      <pubDate>Sun, 19 Mar 2023 10:48:04 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS</title>
+      <link>https://andikatuluspangestu.github.io/tags/dns/</link>
+      <pubDate>Tue, 15 Feb 2022 11:30:15 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IOS</title>
+      <link>https://andikatuluspangestu.github.io/tags/ios/</link>
+      <pubDate>Tue, 15 Feb 2022 11:30:15 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://andikatuluspangestu.github.io/tags/linux/</link>
+      <pubDate>Tue, 15 Feb 2022 11:30:15 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://andikatuluspangestu.github.io/tags/mac/</link>
+      <pubDate>Tue, 15 Feb 2022 11:30:15 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartphone</title>
+      <link>https://andikatuluspangestu.github.io/tags/smartphone/</link>
+      <pubDate>Tue, 15 Feb 2022 11:30:15 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/smartphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://andikatuluspangestu.github.io/tags/windows/</link>
+      <pubDate>Tue, 15 Feb 2022 11:30:15 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extension</title>
+      <link>https://andikatuluspangestu.github.io/tags/extension/</link>
+      <pubDate>Sun, 13 Feb 2022 04:44:41 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VSCode</title>
+      <link>https://andikatuluspangestu.github.io/tags/vscode/</link>
+      <pubDate>Sun, 13 Feb 2022 04:44:41 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LearnDOM</title>
+      <link>https://andikatuluspangestu.github.io/tags/learndom/</link>
+      <pubDate>Sun, 06 Feb 2022 09:53:31 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/learndom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

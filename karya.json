@@ -1,0 +1,34 @@
+[
+
+	{
+		"nama" : "Murottal Al-Qur'an App",
+		"demo" : "https://play.google.com/store/apps/details?id=e.andika30juz.murattal&hl=in&gl=US",
+		"img"  : "https://profil-andikatulus.web.app/assets/img/projects/portfolio.png"
+	},
+	{
+		"nama" : "My Smagawi",
+		"demo" : "https://play.google.com/store/apps/details?id=com.smanegeri3slawi&hl=en_US&gl=US",
+		"img"  : "https://profil-andikatulus.web.app/assets/img/projects/tws.png"
+	},
+	{
+		"nama" : "My Smagawi",
+		"demo" : "https://play.google.com/store/apps/details?id=com.smanegeri3slawi&hl=en_US&gl=US",
+		"img"  : "https://profil-andikatulus.web.app/assets/img/projects/simple-login.png"
+	},
+	{
+		"nama" : "My Smagawi",
+		"demo" : "https://play.google.com/store/apps/details?id=com.smanegeri3slawi&hl=en_US&gl=US",
+		"img"  : "https://profil-andikatulus.web.app/assets/img/projects/crud.png"
+	},
+	{
+		"nama" : "My Smagawi",
+		"demo" : "https://play.google.com/store/apps/details?id=com.smanegeri3slawi&hl=en_US&gl=US",
+		"img"  : "https://profil-andikatulus.web.app/assets/img/projects/ganjel.png"
+	},
+	{
+		"nama" : "My Smagawi",
+		"demo" : "https://play.google.com/store/apps/details?id=com.smanegeri3slawi&hl=en_US&gl=US",
+		"img"  : "https://profil-andikatulus.web.app/assets/img/projects/sistem-apotek.png"
+	}
+
+]

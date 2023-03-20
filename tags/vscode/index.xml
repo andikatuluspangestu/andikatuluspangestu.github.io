@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VSCode on My Portfolio</title>
+    <link>https://andikatuluspangestu.github.io/tags/vscode/</link>
+    <description>Recent content in VSCode on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sun, 13 Feb 2022 04:44:41 +0200</lastBuildDate>
+    
+	<atom:link href="https://andikatuluspangestu.github.io/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menggunakan Live Preview Visual Studio Code</title>
+      <link>https://andikatuluspangestu.github.io/posts/menggunakan-live-preview-vscode/</link>
+      <pubDate>Sun, 13 Feb 2022 04:44:41 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/menggunakan-live-preview-vscode/</guid>
+      <description>A. Mengenal Visual Studio Code Visual Studio Code merupakan sebuah software yang digunakan sebagai kode editor disaat mengembangkan sebuah program komputer. Visual Studio Code berjalan di sistem operasi Windows, Linux dan Mac. Visual Studio Code memiliki extension sebagai alat penunjang tambahan untuk mempermudah pengembangan, di dalam artikel ini kita akan membahas salah satu extension yang ada di Visual Studio Code yaitu Live Preview
+B. Tentang Extension Live Preview Ektensi ini merupakan salah satu ektensi yang berfungsi sebagai preview atau pratinjau terhadap halaman web statis yang kamu buat, dengan menggunakan ini kamu sudah tidak begitu lagi memerlukan browser.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on My Portfolio</title>
+    <link>https://andikatuluspangestu.github.io/categories/coding/</link>
+    <description>Recent content in Coding on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sun, 19 Mar 2023 10:48:04 +0700</lastBuildDate>
+    
+	<atom:link href="https://andikatuluspangestu.github.io/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara Install XAMPP Windows dan Linux</title>
+      <link>https://andikatuluspangestu.github.io/posts/install-xampp-windows-linux/</link>
+      <pubDate>Sun, 19 Mar 2023 10:48:04 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/install-xampp-windows-linux/</guid>
+      <description>A. Instalasi XAMPP di Linux  Download XAMPP : XAMPP Linux Buka Terminal  &amp;gt; sudo chmod 777 xampp.run &amp;gt; sudo ./xampp.run &amp;gt; Membuat Shortcut XAMPP &amp;gt; cd /usr/share/applications &amp;gt; cd touch xampp.desktop &amp;gt; sudo nano xampp.desktop  Copy dan Paste Script di bawah ini.  [Desktop Entry] Encoding=UTF-8 Name=XAMPP Comment=XAMPP Linux Control Panel Exec=sudo /opt/lampp/manager-linux-x64.run Icon=/opt/lampp/htdocs/favicon.ico Categories=Application Type=Application Terminal=true &amp;gt; Perizinan Folder XAMPP &amp;gt; sudo chmod 777 /opt/lampp/htdocs B. Instalasi XAMPP di Windows   Download XAMPP : XAMPP Windows</description>
+    </item>
+    
+    <item>
+      <title>Menggunakan Live Preview Visual Studio Code</title>
+      <link>https://andikatuluspangestu.github.io/posts/menggunakan-live-preview-vscode/</link>
+      <pubDate>Sun, 13 Feb 2022 04:44:41 +0200</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/menggunakan-live-preview-vscode/</guid>
+      <description>A. Mengenal Visual Studio Code Visual Studio Code merupakan sebuah software yang digunakan sebagai kode editor disaat mengembangkan sebuah program komputer. Visual Studio Code berjalan di sistem operasi Windows, Linux dan Mac. Visual Studio Code memiliki extension sebagai alat penunjang tambahan untuk mempermudah pengembangan, di dalam artikel ini kita akan membahas salah satu extension yang ada di Visual Studio Code yaitu Live Preview
+B. Tentang Extension Live Preview Ektensi ini merupakan salah satu ektensi yang berfungsi sebagai preview atau pratinjau terhadap halaman web statis yang kamu buat, dengan menggunakan ini kamu sudah tidak begitu lagi memerlukan browser.</description>
+    </item>
+    
+    <item>
+      <title>Memilih Elemen HTML pada Javascript DOM</title>
+      <link>https://andikatuluspangestu.github.io/posts/memilih-elemen-html-dom/</link>
+      <pubDate>Sun, 06 Feb 2022 09:53:31 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/memilih-elemen-html-dom/</guid>
+      <description>A. Mengenal Javascript DOM Javascript DOM adalah metode dalam Bahasa Pemrograman Javascript yang digunakan untuk memanipulasi element HTML dan CSS pada suatu website. Dengan Javascript DOM kita bisa melakukan atau membuat berbagai interaksi dalam halaman web melalui berbagai Fungsi atau Events yang dimiliki Javascript DOM, seperti membuat Animasi, Membuat Musik Player dan sebagainya.
+B. Persiapan Dalam belajar dan praktik mengenai Javascript DOM ada beberapa hal yang perlu di persiapkan, baik dari sarana maupun pengetahuan yang sebelumnya harus di miliki.</description>
+    </item>
+    
+  </channel>
+</rss>

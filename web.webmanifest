@@ -1,0 +1,16 @@
+{
+    "name": "Andika Tulus Pangestu",
+    "short_name": "DikFolio",
+    "description": "Web Portfolio Andika Tulus Pangestu",
+    "icons": [
+        {
+            "src": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-256.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "background_color": "#0d1117"
+}
