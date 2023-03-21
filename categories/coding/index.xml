@@ -6,10 +6,19 @@
     <description>Recent content in Coding on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-ID</language>
-    <lastBuildDate>Sun, 19 Mar 2023 10:48:04 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2023 09:42:38 +0700</lastBuildDate>
     
 	<atom:link href="https://andikatuluspangestu.github.io/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Install Flutter Tanpa Android Studio Di Windows</title>
+      <link>https://andikatuluspangestu.github.io/posts/install-flutter-tanpa-android-studio-di-windows/</link>
+      <pubDate>Tue, 21 Mar 2023 09:42:38 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/posts/install-flutter-tanpa-android-studio-di-windows/</guid>
+      <description>A. Pengenalan Flutter adalah sebuah framework yang dibuat oleh Google untuk membuat aplikasi mobile cross platform. Flutter menggunakan bahasa Dart yang merupakan bahasa pemrograman yang dikembangkan oleh Google. Flutter dapat digunakan untuk membuat aplikasi Android, iOS, dan juga web. Flutter juga dapat digunakan untuk membuat aplikasi desktop dengan menggunakan framework lain seperti Electron. Dart sendiri merupakan bahasa pemrograman yang memiliki sintaks yang mirip dengan bahasa pemrograman Java dan JavaScript. Flutter sendiri merupakan framework yang open source dan dapat digunakan secara gratis.</description>
+    </item>
     
     <item>
       <title>Cara Install XAMPP Windows dan Linux</title>

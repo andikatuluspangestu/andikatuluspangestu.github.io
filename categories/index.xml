@@ -6,10 +6,19 @@
     <description>Recent content in Categories on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-ID</language>
-    <lastBuildDate>Mon, 20 Mar 2023 10:03:53 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2023 09:42:38 +0700</lastBuildDate>
     
 	<atom:link href="https://andikatuluspangestu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding</title>
+      <link>https://andikatuluspangestu.github.io/categories/coding/</link>
+      <pubDate>Tue, 21 Mar 2023 09:42:38 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/categories/coding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Smartphone</title>
@@ -17,15 +26,6 @@
       <pubDate>Mon, 20 Mar 2023 10:03:53 +0700</pubDate>
       
       <guid>https://andikatuluspangestu.github.io/categories/smartphone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coding</title>
-      <link>https://andikatuluspangestu.github.io/categories/coding/</link>
-      <pubDate>Sun, 19 Mar 2023 10:48:04 +0700</pubDate>
-      
-      <guid>https://andikatuluspangestu.github.io/categories/coding/</guid>
       <description></description>
     </item>
     

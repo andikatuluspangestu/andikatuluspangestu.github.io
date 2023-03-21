@@ -3,6 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andikatuluspangestu.github.io/categories/</loc>
+    <lastmod>2023-03-21T09:42:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andikatuluspangestu.github.io/categories/coding/</loc>
+    <lastmod>2023-03-21T09:42:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andikatuluspangestu.github.io/tags/flutter/</loc>
+    <lastmod>2023-03-21T09:42:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andikatuluspangestu.github.io/posts/install-flutter-tanpa-android-studio-di-windows/</loc>
+    <lastmod>2023-03-21T09:42:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andikatuluspangestu.github.io/posts/</loc>
+    <lastmod>2023-03-21T09:42:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andikatuluspangestu.github.io/tags/</loc>
+    <lastmod>2023-03-21T09:42:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://andikatuluspangestu.github.io/tags/android/</loc>
     <lastmod>2023-03-20T10:03:53+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,20 +59,6 @@
   </url>
   
   <url>
-    <loc>https://andikatuluspangestu.github.io/categories/</loc>
-    <lastmod>2023-03-20T10:03:53+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://andikatuluspangestu.github.io/posts/</loc>
-    <lastmod>2023-03-20T10:03:53+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://andikatuluspangestu.github.io/categories/smartphone/</loc>
     <lastmod>2023-03-20T10:03:53+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,21 +66,7 @@
   </url>
   
   <url>
-    <loc>https://andikatuluspangestu.github.io/tags/</loc>
-    <lastmod>2023-03-20T10:03:53+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://andikatuluspangestu.github.io/posts/install-xampp-windows-linux/</loc>
-    <lastmod>2023-03-19T10:48:04+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://andikatuluspangestu.github.io/categories/coding/</loc>
     <lastmod>2023-03-19T10:48:04+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
